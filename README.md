@@ -1,2 +1,3 @@
-# stoiik
-Stoiik App Code Repository
+# Stoik Pause
+
+Next.js app.
